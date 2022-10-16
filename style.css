@@ -1,6 +1,6 @@
 
 body{ /* body selecciona el cuerpo general y lo pinta */
-	background-color: skyblue; /* https://www.w3schools.com/colors/colors_names.asp */  
+	background-color: darkblue; /* https://www.w3schools.com/colors/colors_names.asp */  
 	font-family: 'Open Sans', sans-serif;
 			}
 
@@ -8,7 +8,7 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 	width: 900px;
 	padding: 20px 0px;
 	margin: 0px;
-	background: purple;
+	background: lightblue;
 	margin: 0 auto; /* centrar elementos dentro de este div */
 	float: center;  /* otras opciones son left, right */
 }
@@ -17,38 +17,38 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 	width: 900px; 
 	padding: 20px 0px;
 	margin: 0px;
-	background: gray;
+	background: ghostwhite;
 	margin: 0 auto; /* centrar elementos dentro de este div */
 	float: center;  /* otras opciones son left, right */
 }
 
 div{/* selecciona el div y lo pinta */
-	width: 820px; 
+	width: 800px; 
 	padding: 20px;
 	margin: 20px 20px;
 	background: white;
 }
 #desarrollo{/* selecciona el id y lo pinta */
-	background-color: orange;
+	background-color: ghostwhite;
 	}
 
 h1{/* selecciona el header o titulo 1 y lo pinta */
-	background-color: pink;
+	background-color: ghostwhite;
 	width: 100%;
 	padding: 0px;
 	margin: 20px 0px;
 	border: 0px solid blue;
 	font-size: 28px;
-	color: hotpink;
+	color: darkblue;
 	text-align: center;
-	font-family: 'Merriweather', serif;
+	font-family: 'sans-serif;', serif;
 	}
 
 h2 {/* selecciona el header o titulo 3 y lo pinta */
-	background: pink;
+	background: ghostwhite;
 	font-size: 20px;
 	color: navy;
-	font-family: 'Merriweather', serif;
+	font-family: 'sans-serif;', serif;
 	text-align: center;
 	}
 
@@ -57,24 +57,24 @@ h3 {
 }
 
 p {/* selecciona el parrafo y lo pinta */
-	background-color: white;
-	width: 100%;
+	background-color: ghostwhite;
+	width: 98%;
 	padding: 10px;
 	font-size: 18px;
 	}
 
 img{/* selecciona las imagenes y las formatea */
-	border: 0px solid gray;
+	border: 0px ghostwhite;
 	width: 100%;
 	}
 
 
 .info-footer {
   display: flex;
-  width: 100%;
-  background-color: #002a38;
+  width: 98%;
+  background-color: #ghostwhite;
   line-height: 1.3;
-  font-family: Menlo, monospace;
+  font-family: sans-serif;, monospace;
 }
 
 .lista-footer {
